@@ -11,6 +11,8 @@ Bayesian Non-negative matrix algorithm. Used for pattern identification algorith
 
 {% include button.html text="CoGAPS Guide Website" link="https://fertiglab.github.io/CoGAPSGuide" %}
 
+<br>
+
 ### GSReg and Expression Variability Analysis (EVA)
 
 EVA compares the dissimilarity between genomic profiles in sample groups. EVA can be applied for pathway dysregulation and splice variation. EVA is implemented in the <a href="https://www.bioconductor.org/packages/release/bioc/html/GSReg.html" target="_blank">R/Bioconductor package GSReg</a>, along with the permutation-based DIRAC algorithm.
