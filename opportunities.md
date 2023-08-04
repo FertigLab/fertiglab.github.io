@@ -14,6 +14,8 @@ The ideal candidate will have previous experience in cancer systems biology rese
 
 Interested applicants should submit a cover letter describing the reason for their interest and fit to the position requirements, their CV, and names and contact information of three references to Dr. Fertig (<a href="mailto:ejfertig@jhmi.edu">ejfertig@jhmi.edu</a>).
 
+<center>{% include button.html text="Email Dr. Fertig" link="mailto:ejfertig@jhmi.edu" %}</center>
+
 **Requirements:**
 
 - PhD in cancer biology, computational biology, biostatistics, biomedical engineering, applied mathematics, or a related field. 
@@ -44,6 +46,8 @@ The ideal candidate will have previous experience in R/Bioconductor, biopython, 
 
 Interested applicants should submit a cover letter describing the reason for their interest, prior programming and bioinformatics experience, experience in multi-disciplinary research, and fit to the position. They should also send their CV and contact information for 3 references to Dr. Fertig (<a href="mailto:ejfertig@jhmi.edu">ejfertig@jhmi.edu</a>).
 
+<center>{% include button.html text="Email Dr. Fertig" link="mailto:ejfertig@jhmi.edu" %}</center>
+
 **Requirements:**
 
 - MS or PhD in computational biology, applied mathematics, computer science, biostatistics, bioinformatics, or similar.
@@ -64,6 +68,8 @@ Interested applicants should submit a cover letter describing the reason for the
 The Fertig lab welcomes students from high school to graduate school for diverse research opportunities.
 
 For inquiries please contact Dr. Fertig (<a href="mailto:ejfertig@jhmi.edu">ejfertig@jhmi.edu</a>) with your CV or resume and a brief cover letter describing your previous research experiences, specific interests in this lab, and programming expertise.
+
+<center>{% include button.html text="Email Dr. Fertig" link="mailto:ejfertig@jhmi.edu" %}</center>
 
 ### <center>Diversity & Inclusion</center>
 
