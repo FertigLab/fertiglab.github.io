@@ -21,7 +21,7 @@ feature_text: |
 - Predictive medicine in cancer and biomedicine
 - <a href="https://www.sciencedirect.com/science/article/pii/S2666634021002920" target="_blank">"Forecasting cancer: from precision medicine to predictive medicine"</a>
 - <a href="https://aacrjournals.org/cancerdiscovery/article-abstract/13/5/1053/726193/Converging-on-a-Cure-The-Roads-to-Predictive" target="_blank">"Converging on a Cure: The Roads to Predictive Immunotherapy"</a>
--<a href="https://pubmed.ncbi.nlm.nih.gov/34660940/" target="_blank">"Forecasting cellular states: from descriptive to predictive biology via single-cell multiomics"</a>
+- <a href="https://pubmed.ncbi.nlm.nih.gov/34660940/" target="_blank">"Forecasting cellular states: from descriptive to predictive biology via single-cell multiomics"</a>
 
 
 <!--## Recent News
