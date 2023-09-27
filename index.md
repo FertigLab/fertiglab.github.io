@@ -18,19 +18,21 @@ feature_text: |
 - Systems biology and bioinformatics
 - Single cell technologies and algorithm development
 - Pattern detection and semi-supervised algorithms
-- Precision medicine in cancer
-- <a href="https://theconversation.com/what-netflix-can-teach-us-about-treating-cancer-74806" target="_blank">"What Netflix can teach us about treating cancer"</a>
-- <a href="https://itunes.apple.com/us/podcast/johns-hopkins-kimmel-cancer-center-podcasts/id1385159689?mt=2" target="_blank">Johns Hopkins Kimmel Cancer Center Podcast with Dr. Fertig on mathematics in cancer research.</a>
+- Predictive medicine in cancer and biomedicine
+- <a href="https://www.sciencedirect.com/science/article/pii/S2666634021002920" target="_blank">"Forecasting cancer: from precision medicine to predictive medicine"</a>
+- <a href="https://aacrjournals.org/cancerdiscovery/article-abstract/13/5/1053/726193/Converging-on-a-Cure-The-Roads-to-Predictive" target="_blank">"Converging on a Cure: The Roads to Predictive Immunotherapy"</a>
+-<a href="https://pubmed.ncbi.nlm.nih.gov/34660940/" target="_blank">"Forecasting cellular states: from descriptive to predictive biology via single-cell multiomics"</a>
+
 
 <!--## Recent News
 - Recent work published in *Neuron and Cell Systems* develops new algorithms for single cell genomics to track cellular transitions in the developing retina <a href="https://www.eurekalert.org/pub_releases/2019-05/jhm-fac052419.php" target="_blank">"Finding a cell's true identity"</a>
 - See our recent review to learn more about applications of matrix factorization to genomics <a href="https://doi.org/10.1101/196915" target="_blank">Stein-O'Brien et al. Enter the matrix: factorization uncovers knowledge from omics.</a>-->
 
-## Funding
+<!--## Funding
 - NIH/NCI R01 and U01
 - Johns Hopkins University Allegheny Award
 - NCI GI SPORE Pilot Award
-- <a href="https://www.hopkinsmedicine.org/news/media/releases/five_johns_hopkins_scientists_among_83_who_will_share_in_15_million_award_from_chan_zuckerberg_initiative_to_fund_computer_based_research_on_human_cells" target="_blank">CZI Collaborative Computational Tools for the Human Cell Atlas</a>
+- <a href="https://www.hopkinsmedicine.org/news/media/releases/five_johns_hopkins_scientists_among_83_who_will_share_in_15_million_award_from_chan_zuckerberg_initiative_to_fund_computer_based_research_on_human_cells" target="_blank">CZI Collaborative Computational Tools for the Human Cell Atlas</a>-->
 
 ## <center>Social</center>
 
