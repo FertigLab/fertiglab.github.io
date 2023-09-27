@@ -2,6 +2,8 @@
 title: <center>Research Areas</center>
 ---
 
+<div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></div>
+
 ### Inferring meta-pathway activity from genomic data
 
 <a href="https://www.bioconductor.org/packages/release/bioc/html/CoGAPS.html" target="_blank">Coordinated Gene Activity in Pattern Sets (CoGAPS)</a> is a novel pattern identification algorithm implemented in an R/Bioconductor package by the same name. This algorithm identifies sets of genes, called meta-pathways, with concurrent changes in high-throughput data. CoGAPS also provides a continuous measure of the extent to which each meta-pathway is active in specific samples. This meta-pathway activity can distinguish <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078127" target="_blank">cancer subtypes</a>, <a href="https://doi.org/10.1101/083717" target="_blank">biomarkers</a>, and <a href="https://doi.org/10.1038/nmeth.3773" target="_blank">dynamics</a> of biological processes.
