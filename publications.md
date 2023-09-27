@@ -12,7 +12,7 @@ title: <center>Publications</center>
 <br>
 <br>
 
-#### Method of the Year 2020: spatially resolved transcriptomics
+<!--#### Method of the Year 2020: spatially resolved transcriptomics
 
 
 <img src="/fertiglab/images/nature-methods-cover.png" align="left" style="margin: 10px 20px 0px 0px;"/>
@@ -24,4 +24,4 @@ title: <center>Publications</center>
 <br>
 <br>
 
-<div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></div>
+<div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></div>-->
