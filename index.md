@@ -1,5 +1,5 @@
 ---
-feature_image: "https://picsum.photos/2560/600?image=872"
+feature_image: "/images/EnterTheMatrix.png"
 feature_text: |
   ## Elana J Fertig, PhD
 
