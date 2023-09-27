@@ -22,6 +22,6 @@ title: <center>Publications</center>
 <br>
 <br>
 <br>
-<br>
+<br>-->
 
-<div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></div>-->
+<div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></div>
