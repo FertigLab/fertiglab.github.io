@@ -1,8 +1,9 @@
 ---
 title: <center>Research Areas</center>
 ---
-
+<br>
 <div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></div>
+<br>
 
 ### Inferring meta-pathway activity from genomic data
 
