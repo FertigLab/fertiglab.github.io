@@ -2,7 +2,10 @@
 title: <center>Research Areas</center>
 ---
 <p>
-<div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></div>
+  <div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></div>
+</p>
+<p>
+  <div><center>{% include button.html text="Scopus Profile" link="https://www.scopus.com/authid/detail.uri?authorId=15768654400" %}</center></div>
 </p>
 
 ### Inferring meta-pathway activity from genomic data
