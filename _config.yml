@@ -41,8 +41,8 @@ navigation_header:
   url: /research/
 - title: Lab Members
   url: /lab-members/
-- title: Publications
-  url: /publications/
+# - title: Publications
+#   url: /publications/
 - title: Software
   url: /software/
 - title: Teaching
