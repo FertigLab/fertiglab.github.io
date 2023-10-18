@@ -24,5 +24,4 @@ title: <center>Publications</center>
 <br>
 <br>-->
 
-<div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %}</center></div>
-<div><center>{% include button.html text="Scopus Profile" link="https://www.scopus.com/authid/detail.uri?authorId=15768654400" %}</center></div>
+  <div><center>{% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=nfCAUr8AAAAJ&hl=en&oi=ao" %} {% include button.html text="Scopus Profile" link="https://www.scopus.com/authid/detail.uri?authorId=15768654400" %}</center></div>
