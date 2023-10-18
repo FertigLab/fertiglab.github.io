@@ -29,5 +29,5 @@ In addition to molecular data, mathematical models can predict the state of sign
 
 In weather forecasting, data assimilation schemes that regularly integrate mathematical models and measurements of a dynamical system improves predictions of future states. Algorithms to incorporating indirect satellite observations into a flow-dependent data assimilation scheme, the local ensemble transform Kalman filter (LETKF) further improve forecasting accuracy.
 
-<div><center>{% include button.html text="Publications" link="https://juliambowden.github.io/fertiglab/publications/" %}</center></div>
-<br>
+<!-- <div><center>{% include button.html text="Publications" link="https://juliambowden.github.io/fertiglab/publications/" %}</center></div>
+<be> -->
