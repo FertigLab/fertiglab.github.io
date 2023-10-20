@@ -1,5 +1,5 @@
 ---
-feature_image: "/fertiglab/images/EnterTheMatrixTransparentOverlay.png"
+feature_image: "/images/EnterTheMatrixTransparentOverlay.png"
 feature_text: |
   ## Elana J Fertig, PhD
 
