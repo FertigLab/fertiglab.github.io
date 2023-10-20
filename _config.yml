@@ -21,8 +21,8 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://juliambowden.github.io'
-baseurl: '/fertiglab'
+url: 'https://fertiglab.github.io'
+baseurl: ''
 title: 'Fertig Lab'
 description: 'The website for Fertig Lab'
 permalink: pretty
