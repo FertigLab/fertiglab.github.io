@@ -2,7 +2,7 @@
 title: <center>Biography</center>
 ---
 
-<img src="/fertiglab.github.io/images/elana-fertig.jpg" align="left" style="margin: 30px 30px 30px 0px;" />
+<img src="./images/elana-fertig.jpg" align="left" style="margin: 30px 30px 30px 0px;" />
 
 ## Elana J Fertig, PhD
 
