@@ -6,7 +6,7 @@ title: <center>Software & Algorithms</center>
 
 ### Coordinated Gene Activity in Pattern Sets (CoGAPS)
 
-<img src="/fertiglab/images/cogaps-software-logo.png" align="left" style="margin: 0px 30px 0px 0px;"/>
+<img src="/images/cogaps-software-logo.png" align="left" style="margin: 0px 30px 0px 0px;"/>
 Bayesian Non-negative matrix algorithm. Used for pattern identification algorithm from genomics data. Implemented in the <a href="https://www.bioconductor.org/packages/release/bioc/html/CoGAPS.html" target="_blank">R/Bioconductor package CoGAPS</a>.
 
 {% include button.html text="CoGAPS Guide Website" link="https://fertiglab.github.io/CoGAPSGuide" %}
@@ -31,7 +31,7 @@ The <a href="https://www.bioconductor.org/packages/devel/bioc/html/projectR.html
 
 ### SpaceMarkers
 
-<img src="/fertiglab/images/space-markers-software.png" align="left" style="margin: 0px 30px 0px 0px;"/>
+<img src="/images/space-markers-software.png" align="left" style="margin: 0px 30px 0px 0px;"/>
 <a href="https://www.biorxiv.org/content/10.1101/2022.06.02.490672v1" target="_blank">SpaceMarkers</a> is an R/Bioconductor software tool to identify genes associated with latent space interactions in spatial transcriptomics.
 
 {% include button.html text="SpaceMarkers Guide Website" link="https://fertiglab.github.io/SpaceMarkersGuide" %}
