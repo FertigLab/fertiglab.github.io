@@ -14,7 +14,7 @@ title: Lab Members
 
   {% include figure.html image="/images/tamara-lopez-vidal.jpg" caption="Tamara Lopez-Vidal" position="left" %}
 
-  {% include figure.html image="/images/dima-lvovs.jpg" caption="Dima Lvovs, PhD (Postdoc)" position="left" %}
+  {% include figure.html image="/images/dima-lvovs.jpg" caption="Dima Lvovs, PhD (Sr. Data Scientist)" position="left" %}
 </center>
 <center>
   {% include figure.html image="/images/jacob-mitchell.png" caption="Jacob Mitchell" position="left" %}
