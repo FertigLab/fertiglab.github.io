@@ -25,7 +25,10 @@ title: Lab Members
 
 </center>
 <center>
+  {% include figure.html image="/images/alma-Plaza-Rodriguez.png" caption="Alma Plaza-Rodriguez, PhD (Postdoc)" position="left" %}
+  
   {% include figure.html image="/images/orian-stapleton.jpg" caption="Orian Stapleton" position="left" %}
 
   {% include figure.html image="/images/shuming-zhang.jpg" caption="Shuming Zhang" position="left" %}
 </center>
+
