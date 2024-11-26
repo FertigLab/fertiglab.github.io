@@ -3,13 +3,6 @@ feature_image: "/images/EnterTheMatrixTransparentOverlay.png"
 feature_text: |
   ## Elana J Fertig, PhD
 
-  #### Director of <a href="https://twitter.com/hopkinsrpqs" target="_blank">@HopkinsRPQS</a>
-
-  #### Co-Director Convergence Institute
-
-  #### Associate Director of Quantitative Sciences
-
-  #### SKCCC, Johns Hopkins
 ---
 
 # <center>Lab Information</center>
@@ -36,4 +29,4 @@ feature_text: |
 
 ## <center>Social</center>
 
-<center>{% include button.html text="@FertigLab" link="https://www.twitter.com/FertigLab" icon="twitter" color="#00acee" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/elana-fertig-7782bb1" icon="linkedin" color="#0072b1" %}</center>
+<center>{% include button.html text="@FertigLab" link="https://bsky.app/profile/fertiglab.bsky.social" icon="bsky" color="#00acee" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/elana-fertig-7782bb1" icon="linkedin" color="#0072b1" %}</center>
