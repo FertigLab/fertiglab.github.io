@@ -29,4 +29,4 @@ feature_text: |
 
 ## <center>Social</center>
 
-<center>{% include button.html text="@FertigLab" link="https://bsky.app/profile/fertiglab.bsky.social" icon="bsky.app" color="#00acee" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/elana-fertig-7782bb1" icon="linkedin" color="#0072b1" %}</center>
+<center>{% include button.html text="@fertiglab.bsky.social" link="https://bsky.app/profile/fertiglab.bsky.social" icon="bsky.app" color="#00acee" %} {% include button.html text="LinkedIn" link="https://www.linkedin.com/in/elana-fertig-7782bb1" icon="linkedin" color="#0072b1" %}</center>
