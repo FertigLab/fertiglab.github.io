@@ -45,10 +45,6 @@ For inquiries please contact Dr. Fertig (<a href="mailto:ejfertig@som.umaryland.
 
 <center>{% include button.html text="Email Dr. Fertig" link="mailto:ejfertig@som.umaryland.edu" %}</center>
 
-### <center>Diversity & Inclusion</center>
-
-The University of Maryland, Baltimore is an equal opportunity employer. Dr. Fertig's lab values diversity in the workplace.
-
 ### <center>Lab Information</center>
 
 <center>{% include button.html text="Fertig Lab Onboarding Site" link="https://fertiglab.github.io/onboarding/" %}</center>
