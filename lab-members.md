@@ -5,7 +5,6 @@ title: Lab Members
 <center>
   {% include figure.html image="/images/wisam-awadallah.jpg" caption="Wisam Awadallah" position="left" %}
 
-  {% include figure.html image="/images/daniel-bergman.png" caption="Daniel Bergman, PhD (Postdoc)" position="left" %}
 
   {% include figure.html image="/images/alex-girgis.jpg" caption="Alex Girgis" position="left" %}
 </center>
@@ -21,13 +20,10 @@ title: Lab Members
   
   {% include figure.html image="/images/janelle-montagne.jpeg" caption="Janelle Montagne, PhD (Postdoc)" position="left" %}
 
-  {% include figure.html image="/images/theron-palmer.jpg" caption="Theron Palmer" position="left" %}
-
 </center>
 <center>
   {% include figure.html image="/images/alma-Plaza-Rodriguez.png" caption="Alma Plaza-Rodriguez, PhD (Postdoc)" position="left" %}
   
-  {% include figure.html image="/images/orian-stapleton.jpg" caption="Orian Stapleton" position="left" %}
 
   {% include figure.html image="/images/shuming-zhang.jpg" caption="Shuming Zhang" position="left" %}
 </center>
