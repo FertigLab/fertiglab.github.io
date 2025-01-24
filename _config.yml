@@ -39,16 +39,16 @@ navigation_header:
   url: /biography/
 - title: Research Areas
   url: /research/
-- title: Lab Members
-  url: /lab-members/
+# - title: Lab Members
+#  url: /lab-members/
 # - title: Publications
 #   url: /publications/
 - title: Software
   url: /software/
 - title: Teaching
   url: /teaching/
-- title: Opportunities
-  url: /opportunities/
+# - title: Opportunities
+#  url: /opportunities/
 
   # Jekyll settings
 sass:
