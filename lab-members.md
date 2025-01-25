@@ -9,11 +9,11 @@ title: Lab Members
 </center>
 <center>
   {% include figure.html image="/images/tamara-lopez-vidal.jpg" caption="Tamara Lopez-Vidal" position="left" %}
-  {% include figure.html image="/images/dima-lvovs.jpg" caption="Dima Lvovs, PhD (Sr. Data Scientist)" position="left" %}
+  {% include figure.html image="/images/dima-lvovs.jpg" caption="Dima Lvovs, PhD (Research Associate, Software Manager)" position="left" %}
   {% include figure.html image="/images/jacob-mitchell.png" caption="Jacob Mitchell" position="left" %}
 </center>
 <center>
-  {% include figure.html image="/images/janelle-montagne.jpeg" caption="Janelle Montagne, PhD (Postdoc)" position="left" %}
+  {% include figure.html image="/images/KatleenNoller.jpg" caption="Kathleen Noller, PhD (Postdoc)" position="left" %}
   {% include figure.html image="/images/alma-Plaza-Rodriguez.png" caption="Alma Plaza-Rodriguez, PhD (Postdoc)" position="left" %}
   {% include figure.html image="/images/shuming-zhang.jpg" caption="Shuming Zhang" position="left" %}
 </center>
