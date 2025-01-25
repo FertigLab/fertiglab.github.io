@@ -9,7 +9,7 @@ title: Lab Members
 </center>
 <center>
   {% include figure.html image="/images/tamara-lopez-vidal.jpg" caption="Tamara Lopez-Vidal" position="left"  width="200"%}
-  {% include figure.html image="/images/dima-lvovs.jpg" caption="Dima Lvovs, PhD (Research Associate, Software Manager)" position="left"  width="200"%}
+  {% include figure.html image="/images/dima-lvovs.jpg" caption="Dima Lvovs, PhD (Research Associate)" position="left"  width="200"%}
   {% include figure.html image="/images/jacob-mitchell.png" caption="Jacob Mitchell" position="left"  width="200"%}
 </center>
 <center>
