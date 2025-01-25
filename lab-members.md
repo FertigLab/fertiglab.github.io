@@ -13,7 +13,7 @@ title: Lab Members
   {% include figure.html image="/images/jacob-mitchell.png" caption="Jacob Mitchell" position="left" %}
 </center>
 <center>
-  {% include figure.html image="/images/KatleenNoller.jpg" caption="Kathleen Noller, PhD (Postdoc)" position="left" %}
+  {% include figure.html image="/images/KatleenNoller.jpg" caption="Kathleen Noller, PhD (Postdoc)" position="left" width="100"%}
   {% include figure.html image="/images/alma-Plaza-Rodriguez.png" caption="Alma Plaza-Rodriguez, PhD (Postdoc)" position="left" %}
   {% include figure.html image="/images/shuming-zhang.jpg" caption="Shuming Zhang" position="left" %}
 </center>
