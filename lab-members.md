@@ -17,4 +17,7 @@ title: Lab Members
   {% include figure.html image="/images/alma-Plaza-Rodriguez.png" caption="Alma Plaza-Rodriguez, PhD (Postdoc)" position="left"  width="200"%}
   {% include figure.html image="/images/shuming-zhang.jpg" caption="Shuming Zhang" position="left"  width="200"%}
 </center>
+<center>
+  {% include figure.html image="/images/MikeOchs.jpg" caption="Michael Ochs, PhD ( Associate Professor / lab manager)" position="left" width="200"%}
+</center>
 
