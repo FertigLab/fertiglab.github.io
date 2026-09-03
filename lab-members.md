@@ -19,6 +19,6 @@ title: Lab Members
  
 </center>
 <center>
-  {% include figure.html image="/images/MikeOchs.jpg" caption="Michael Ochs, PhD ( Associate Professor / lab manager)" position="left" width="200"%}
+  {% include figure.html image="/images/MikeOchs.jpg" caption="Michael Ochs, PhD ( Associate Professor / Lab Manager)" position="left" width="200"%}
 </center>
 
