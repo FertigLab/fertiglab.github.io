@@ -3,6 +3,7 @@ title: Lab Members
 ---
 <br>
 <center>
+  {% include figure.html image="/images/ArunDas.jpg" caption="Arun Das, PhD (Postdoc)" position="left"  width="200"%}
   {% include figure.html image="/images/EmilyLasseOpsahl.jpeg" caption="Emily Lasse-Opsahl, PhD (Postdoc)" position="left"  width="200"%}
 </center>
 <center>
