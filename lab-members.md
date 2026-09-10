@@ -2,26 +2,89 @@
 title: Lab Members
 ---
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:30px;">
+<style>
+.lab-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
 
-{% include figure.html image="/images/ArunDas.jpg" caption="Arun Das, PhD (Postdoctoral Fellow)" width="200" %}
+.lab-member {
+  text-align: center;
+}
 
-{% include figure.html image="/images/EmilyLasseOpsahl.jpeg" caption="Emily Lasse-Opsahl, PhD (Postdoctoral Fellow)" width="200" %}
+.lab-member img {
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto 0.75rem;
+}
 
-{% include figure.html image="/images/KatleenNoller.jpg" caption="Kathleen Noller, PhD (Postdoctoral Fellow)" width="200" %}
+.lab-member p {
+  margin: 0;
+  font-size: 0.95rem;
+  line-height: 1.4;
+}
 
-{% include figure.html image="/images/DonghyunYim.jpeg" caption="Donghyun Yim, PhD (Postdoctoral Fellow)" width="200" %}
+@media (max-width: 600px) {
+  .lab-member img {
+    width: 180px;
+    height: 225px;
+  }
+}
+</style>
 
-{% include figure.html image="/images/Jiaqi_avatar.jpg.jpeg" caption="Jiaqi Zhang, PhD (Postdoctoral Fellow)" width="200" %}
+<div class="lab-grid">
 
-{% include figure.html image="/images/yangsong.jpg.jpeg" caption="Yang Song, PhD (Sr. Bioinformatics Software Engineer)" width="200" %}
-
-{% include figure.html image="/images/Junhan_Kim.png" caption="Junhan Kim (Graduate Student)" width="200" %}
-
-{% include figure.html image="/images/dima-lvovs.jpg" caption="Dima Lvovs, PhD (Research Associate)" width="200" %}
-
-{% include figure.html image="/images/MikeOchs.jpg" caption="Michael Ochs, PhD (Associate Professor / Lab Manager)" width="200" %}
-
+<div class="lab-member">
+{% include figure.html image="/images/ArunDas.jpg" width="200" %}
+<p><strong>Arun Das, PhD</strong><br>Postdoctoral Fellow</p>
 </div>
 
+<div class="lab-member">
+{% include figure.html image="/images/EmilyLasseOpsahl.jpeg" width="200" %}
+<p><strong>Emily Lasse-Opsahl, PhD</strong><br>Postdoctoral Fellow</p>
+</div>
+
+<div class="lab-member">
+{% include figure.html image="/images/KatleenNoller.jpg" width="200" %}
+<p><strong>Kathleen Noller, PhD</strong><br>Postdoctoral Fellow</p>
+</div>
+
+<div class="lab-member">
+{% include figure.html image="/images/DonghyunYim.jpeg" width="200" %}
+<p><strong>Donghyun Yim, PhD</strong><br>Postdoctoral Fellow</p>
+</div>
+
+<div class="lab-member">
+{% include figure.html image="/images/Jiaqi_avatar.jpg.jpeg" width="200" %}
+<p><strong>Jiaqi Zhang, PhD</strong><br>Postdoctoral Fellow</p>
+</div>
+
+<div class="lab-member">
+{% include figure.html image="/images/yangsong.jpg.jpeg" width="200" %}
+<p><strong>Yang Song, PhD</strong><br>Sr. Bioinformatics Software Engineer</p>
+</div>
+
+<div class="lab-member">
+{% include figure.html image="/images/Junhan_Kim.png" width="200" %}
+<p><strong>Junhan Kim</strong><br>Graduate Student</p>
+</div>
+
+<div class="lab-member">
+{% include figure.html image="/images/dima-lvovs.jpg" width="200" %}
+<p><strong>Dima Lvovs, PhD</strong><br>Research Associate</p>
+</div>
+
+<div class="lab-member">
+{% include figure.html image="/images/MikeOchs.jpg" width="200" %}
+<p><strong>Michael Ochs, PhD</strong><br>Associate Professor / Lab Manager</p>
+</div>
+
+</div>
 
