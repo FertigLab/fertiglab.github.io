@@ -94,6 +94,11 @@ title: Lab Members
     </div>
 
     <div class="lab-member">
+      {% include figure.html image="/images/AnnaLilly.docx" width="200" %}
+      <p><strong>Anna Lilly, PhD</strong>Postdoctoral Fellow</p>
+    </div>
+
+    <div class="lab-member">
       {% include figure.html image="/images/KatleenNoller.jpg" width="200" %}
       <p><strong>Kathleen Noller, PhD</strong>Postdoctoral Fellow</p>
     </div>
