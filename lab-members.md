@@ -94,7 +94,7 @@ title: Lab Members
     </div>
 
     <div class="lab-member">
-      {% include figure.html image="/images/AnnaLilly.docx" width="200" %}
+      {% include figure.html image="/images/AnnaLilly.png" width="200" %}
       <p><strong>Anna Lilly, PhD</strong>Postdoctoral Fellow</p>
     </div>
 
@@ -127,6 +127,22 @@ title: Lab Members
       <p>
         <strong>Yang Song, PhD</strong>
         Sr. Bioinformatics Software Engineer
+      </p>
+    </div>
+
+   <div class="lab-member">
+      {% include figure.html image="/images/kavita Krishna" width="200" %}
+      <p>
+        <strong>Kavita Krishnan, PhD</strong>
+        Sr. Bioinformatics Analyst
+      </p>
+    </div>
+
+<div class="lab-member">
+      {% include figure.html image="/images/sushma nagaraj" width="200" %}
+      <p>
+        <strong>Sushma Nagaraj, PhD</strong>
+        Lead Bioinformatics Analyst
       </p>
     </div>
 
